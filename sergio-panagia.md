@@ -2,6 +2,7 @@
 title: Sergio Panagia
 type: Person
 _organized: true
+_archived: true
 ---
 # Sergio Panagia
 

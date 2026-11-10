@@ -1,6 +1,7 @@
 ---
 type: Responsibility
 _organized: true
+_archived: true
 ---
 # Stay in good shape
 
